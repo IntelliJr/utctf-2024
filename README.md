@@ -13,7 +13,7 @@ The Cotton Highway's write-ups for UTCTF 2024.
 - Beginner: Basic Reversing Problem
 - Fruit Deals
 ## Web
-- [Beginner: Off-Brand Cookie Clicker](cookie_clicker.md)
+- [Beginner: Off-Brand Cookie Clicker](Cookie_Clicker.md)
 - Schrödinger
 ## Misc
 - Survey
