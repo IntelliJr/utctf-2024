@@ -9,7 +9,7 @@ At the end of the PDF, we can see two signatures:
 ![[media/contracts/signatures.png]]
 
 Upon right-clicking on them in the PDF, we can see that they are actually images:
-![[media/contracts/actually-images.png]]
+[<img src="media/contracts/actually-images.png">]
 
 Let's save both signatures as images, and examine them using `exiftool`.
 ![[media/contracts/sign1-exif.png]]
