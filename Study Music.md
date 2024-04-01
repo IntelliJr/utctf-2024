@@ -24,5 +24,5 @@ After applying some spectrogram settings...
 ...the pattern becomes more apparent.
 <img src="media/study-music/pattern.png">
 
-Translating the Morse code to text gives us the flag:
+Translating the Morse code to text gives us the flag:  
 <img src="media/study-music/morse-to-flag.png">
