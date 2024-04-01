@@ -18,8 +18,11 @@ That doesn't yield anything useful, which means the flag is not hidden inside th
 
 A tool called `pdftohtml` allows us to break down the PDF into all its constituent parts:
 <img src="media/contracts/pdftohtml.png">  
+
 Let's examine the directory now:
 <img src="media/contracts/directory.png">  
+
 We can see a new image that we haven't been able to see before - `contract-3_3.png`. Let's take a closer look:
 <img src="media/contracts/flag.png">  
+
 And indeed, it turns out to be the flag!
