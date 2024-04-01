@@ -6,7 +6,7 @@ The Cotton Highway's write-ups for UTCTF 2024.
 - RSA-256
 - Beginner: Anti-dcode.fr
 ## Forensics
-- Contracts
+- [Contracts](Contracts.md)
 - OSINT (all 3 parts)
 - Study Music
 ## Reverse Engineering
