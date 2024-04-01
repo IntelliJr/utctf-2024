@@ -14,7 +14,7 @@ The Cotton Highway's write-ups for UTCTF 2024.
 - Fruit Deals
 ## Web
 - [Beginner: Off-Brand Cookie Clicker](Cookie_Clicker.md)
-- Schrödinger
+- [Schrödinger](schrodinger.md)
 ## Misc
 - Survey
 - CCV
