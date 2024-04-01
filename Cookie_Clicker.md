@@ -42,7 +42,7 @@ I noticed that the flag would displayed when the value of the variabe
 
 Writing a script to automate clicks can immediately be ruled out since the number of clicks is very large. 
 Command line utilities like cURL then come to the rescue. After some looking around, I found that we can make a POST request to the `click` endpoint
-specifying the value of count and it gives us the flag. 
+specifying the value of count we want 
 
 ```bash
 curl -X POST --data "count=10000001" http://betta.utctf.live:8138/click
