@@ -7,7 +7,7 @@ The Cotton Highway's write-ups for UTCTF 2024.
 - Beginner: Anti-dcode.fr
 ## Forensics
 - [Contracts](Contracts.md)
-- OSINT (all 3 parts)
+- [OSINT (all 3 parts)](OSINT%20(all%203%20parts).md)
 - [Study Music](Study%20Music.md)
 ## Reverse Engineering
 - Beginner: Basic Reversing Problem
