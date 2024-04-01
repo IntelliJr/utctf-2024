@@ -3,7 +3,7 @@ The Cotton Highway's write-ups for UTCTF 2024.
 
 # Solved Problems
 ## Cryptography
-- RSA-256
+- [RSA-256](RSA-256.md)
 - Beginner: Anti-dcode.fr
 ## Forensics
 - [Contracts](Contracts.md)
