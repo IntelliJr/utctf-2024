@@ -8,7 +8,7 @@ The Cotton Highway's write-ups for UTCTF 2024.
 ## Forensics
 - [Contracts](Contracts.md)
 - OSINT (all 3 parts)
-- Study Music
+- [Study Music](Study%20Music.md)
 ## Reverse Engineering
 - Beginner: Basic Reversing Problem
 - Fruit Deals
