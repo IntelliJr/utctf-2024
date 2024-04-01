@@ -44,7 +44,7 @@ Let's check the link now.
 <img src="media/osint/discord1.png">  
 <img src="media/osint/discord2.png">
 
-The link leads to a Discord server with 3 people in it: `coleminerton`, `rosschimneyhook`, and `bradleyhyderman_66406`. Let's check if there are any files here:
+The link leads to a Discord server with 3 people in it: `coleminerton`, `rosschimneyhook`, and `bradleyhyderman_66406`. Let's check if there are any files here:  
 <img src="media/osint/discord-files.png">  
 
 There are a couple pictures, and a document named [`trustly_contract.pdf`](media/osint/trustly_contract.pdf). Let's check it.
