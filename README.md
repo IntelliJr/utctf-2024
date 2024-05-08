@@ -1,6 +1,9 @@
 # utctf-2024
 The Cotton Highway's write-ups for UTCTF 2024.
 
+# Place Obtained
+111/854
+
 # Solved Problems
 ## Cryptography
 - [RSA-256](RSA-256.md)
