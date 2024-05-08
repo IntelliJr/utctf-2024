@@ -103,7 +103,7 @@ We can see a few important things here: the name of the company at whose gas sta
 
 The station is owned by Bradley. Doing a Google search on them tells us they were bought by another company named Stinker Stores in 2017: https://www.petrolplaza.com/news/6540. We can also find out they had 40 locations across several states, including New Mexico. However, trying to find the exact store locations has yielded no (quick) results.
 
-On the poster, we can see the state of New Mexico being mentioned. At this point, we should have no doubts about the state where Cole lives in - New Mexico. Now, we only need to find out the city and the zip code.
+On the poster, we can see the state of New Mexico being mentioned. At this point, we should have no doubt about the state where Cole lives in - New Mexico. Now, we only need to find out the city and the zip code.
 
 ![](media/osint/poster.png)
 
@@ -125,7 +125,7 @@ Can you find the person's IP address? Flag format is XXX.XXX.XXX.XXX
 #### Hints
 - If you wound up on another (unrelated) discord server, then one of the sites you visited is too new.
 - All in scope accounts follow the same naming convention. Once you've reached a centralized location any sites you need can be reached in at most 3 clicks.
-## Methodology
+## Methodology (in progress)
 There is no reliable way of getting an IP address by using just someone's location ~~and I definitely did not spend 2 hours trying to do that for some reason~~, so we have to use a different method to obtain it. Let's come back to the Reddit account. 
 
 - check out subreddit
