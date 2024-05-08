@@ -2,7 +2,7 @@
 The Cotton Highway's write-ups for UTCTF 2024.
 
 # Place Obtained
-111/854
+Top 13% (111/854 teams)
 
 # Solved Problems
 ## Cryptography
