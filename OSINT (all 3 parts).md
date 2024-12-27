@@ -125,7 +125,7 @@ Can you find the person's IP address? Flag format is XXX.XXX.XXX.XXX
 #### Hints
 - If you wound up on another (unrelated) discord server, then one of the sites you visited is too new.
 - All in scope accounts follow the same naming convention. Once you've reached a centralized location any sites you need can be reached in at most 3 clicks.
-## Methodology (in progress)
+## Methodology
 There is no reliable way of getting an IP address by using just someone's physical location, so we have to use a different method to obtain it. Let's come back to the Reddit account.  
 ![](media/osint/Pastedimage20241227203153.png)  
 
