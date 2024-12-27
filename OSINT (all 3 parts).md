@@ -115,7 +115,7 @@ Let's go to Google Maps and search for "Cimarron Ave NM".
 
 ![](media/osint/cimarron-maps.png)
 
-Now, this is where my solution falls short of perfect. According to a UTCTF admin, by using all the hints available, it was possible to narrow the list down to a single location. However, I was not able to do that, so I had to try and submit all the possible locations. The correct city turned out to be Raton, which had only one zip code.
+Now, this is where my solution falls short of perfect. By using all the provided hints, it was possible to narrow the list down to a single location, however, I was not able to do that, so I had to try and submit all possible zip codes for Springer, Raton, and Aztec. The correct city turned out to be Raton, which also had only one zip code.
 Flag: `Raton,NM,87740`.
 # OSINT 3
 - Solves: 96
@@ -126,18 +126,22 @@ Can you find the person's IP address? Flag format is XXX.XXX.XXX.XXX
 - If you wound up on another (unrelated) discord server, then one of the sites you visited is too new.
 - All in scope accounts follow the same naming convention. Once you've reached a centralized location any sites you need can be reached in at most 3 clicks.
 ## Methodology (in progress)
-There is no reliable way of getting an IP address by using just someone's location ~~and I definitely did not spend 2 hours trying to do that for some reason~~, so we have to use a different method to obtain it. Let's come back to the Reddit account. 
+There is no reliable way of getting an IP address by using just someone's physical location, so we have to use a different method to obtain it. Let's come back to the Reddit account.  
+![](media/osint/Pastedimage20241227203153.png)  
 
-- check out subreddit
-- wiki link
-- also show it on new reddit, now there's a different link there
-- that's what the first hint means
-- check out wiki
-- go to history
-- cole's name pops up
-- go through edits
-- fake ip
-- "was not logged in for last edit", the ip of author in the prior edit is the Cole's IP.
+We can see he has recently become a moderator of r/tinyislandsurvival subreddit. Let's go there.  
+![](media/osint/Pastedimage20241227203614.png)
+
+It's a subreddit for the community of a game called Tiny Island Survival. From here, we can go to the fandom wiki of this game by following a link on the right hand side.    
+![](media/osint/Pastedimage20241227204925.png)
+By going to the three dots in the right hand corner, we can view the edit history of the wiki:  
+![](media/osint/Pastedimage20241227205024.png)  
+![](media/osint/Pastedimage20241227205246.png)  
+We can see the Cole's name here again. The message next to one of the edits here looks particularly interesting. It says Cole wasn't logged in for the previous edit he made, and in the previous edit, made at 03:12, we can see the IP `181.41.206.31`, which therefore has to be Cole's IP address.
+
+P.S.:
+The first hint refers to the fact that if you go to the subreddit on new Reddit, instead of the wiki link, there will be a link to the game's Discord server (which was out of the scope of this challenge):  
+![](media/osint/Pastedimage20241227204504.png)  
 
 # Methodology analysis
 A few hours at the beginning of OSINT 1 were wasted doing Google searches on the employees, which yielded no results. That is not to say that the idea was wrong - I simply was not aware of Sherlock's existence, and discovering it was just a part of the learning process.
